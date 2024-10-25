@@ -1,0 +1,14 @@
+div{background-color: red;
+color: black;
+padding: 5px;}
+nav{background-color: yellow;
+padding: 2%;
+color:blue;}
+a{text-decoration: none;}
+table{border: 2px solid;}
+td{border: 2px solid;
+padding: 10px;}
+footer{background-color: black;
+color: aliceblue;
+padding: 10px;
+margin: 10px;}
